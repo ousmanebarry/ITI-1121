@@ -1,0 +1,5 @@
+*.class  
+Test*.java
+Test.java
+/tests
+/midterm
